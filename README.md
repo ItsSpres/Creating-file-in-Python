@@ -1,6 +1,7 @@
 # Creating-file-in-Python
 This simple program will show you how to take a user's input and then write it to a file. This was a school assignment for me.
 
+# Code (Without extra stuff in the main.py file)
     # Naming the file
     fileName = input('Please enter the name of the file you would like to create: ')
 
